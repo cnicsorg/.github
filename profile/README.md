@@ -1,6 +1,6 @@
-# Cnics Foundation
+# Cnics Organization
 
-The **Cnics Foundation** is a community-driven organization dedicated to the development, promotion, and support of the **Cnics Operating System** and its associated technologies. Established alongside the release of Cnics as an open-source project, the foundation fosters collaboration and innovation in the field of lightweight and modular operating systems.
+The **Cnics Organization** is a community-driven organization dedicated to the development, promotion, and support of the **Cnics Operating System** and its associated technologies. Established alongside the release of Cnics as an open-source project, the foundation fosters collaboration and innovation in the field of lightweight and modular operating systems.
 
 ## Mission
 
