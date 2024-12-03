@@ -15,7 +15,7 @@ The **Cnics Organization** is a community-driven organization dedicated to the d
 
 ## Community
 
-The foundation is supported by a growing community of contributors and developers who collaborate through forums, open-source repositories, and the **Cnics Discord server**.
+The organization is supported by a growing community of contributors and developers who collaborate through forums and open-source repositories.
 
 ### Get Involved
 
